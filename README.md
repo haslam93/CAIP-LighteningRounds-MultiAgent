@@ -1,4 +1,4 @@
-# Lightning Round: GitHub Copilot Advanced Capabilities
+# Lightning Talks: GitHub Copilot Multi-Agent Capabilities
 
 > **CAIP CSU Canada — First Lightning Talks Session**
 
@@ -28,7 +28,7 @@ Copilot agents can be extended with **domain-specific skills** — self-containe
 - How skills encapsulate domain expertise
 - Practical examples of skill-driven workflows
 
-### 3. Background Agent, Cloud Agent & SDK Integrations
+### 3. Background Agent, Cloud Agent & New SDK Integrations
 
 We touch on the emerging ecosystem around Copilot's **Background Agent** (autonomous, long-running tasks) and **Cloud Agent** (remote execution in GitHub-hosted environments), along with integrations with **Claude** and the **Codex SDK**. These capabilities push the boundaries of what's possible — from fire-and-forget issue resolution to cloud-scale code generation.
 
@@ -51,6 +51,7 @@ We showcase **GitHub Copilot CLI** and walk through how it leverages **three dis
 ## About This Repository
 
 This repository contains a simple **Node.js calculator application** used as the demo workspace for the session. It includes an Express-based API, client-side UI, and a test suite — providing a realistic but approachable codebase for demonstrating Copilot's capabilities.
+Check the prompts folder for saved prompts
 
 ---
 
@@ -59,6 +60,7 @@ This repository contains a simple **Node.js calculator application** used as the
 | | |
 |---|---|
 | **Team** | CAIP CSU Canada |
+| **Presenter** | Hammad Aslam |
 | **Format** | Lightning Round (demo-driven) |
 | **Edition** | First Session |
 | **Audience** | Technical practitioners and engineering leads |
